@@ -9,40 +9,18 @@
 欢迎大家一起贡献，请直接提交 issue 或者 pr （只能提交普通网络下就可以访问成功的）
 
 ### 无需登录直接可用的：
+- https://next.speedy.works 或 https://chat.oaifree.com, PandoraNext代理站，有账号的情况下可以直连，同时也代理了官网账号注册
 - https://www.zxf7460.cn/home - GPT-3.5-16k免费使用，吐字块，每日20次数，不需要登陆
+- https://chat18.aichatos.xyz 免费可直连，大量使用一小时内会被限流
 - https://chat.ttext.cn/ - 免费时限制每小时6次提问
 - https://chatgpt.nicelinks.site/ - 免费使用频次有限制
 - http://ai.yscxy.net/ - 免费由开发者提供
 - https://c2.binjie.fun/ - 免费可用
 - https://chat14.aichatos.xyz/ - 免费可用
 - https://chat.aidutu.cn - 免费直接可用 
-- https://gpt.368ai.cn/ - 免费试用三次提问
 - https://mfzn.xn--9kqc40tsudv9iv0e30d65lqnh8rd27vpo0bfyr1l7clwq.com/ - GPT-3.5-16k ，吐字快，无次数限制，不需要登陆，永久免费；
 - https://ai.ixxxk.com/ - 无任何限制，现在没有，以后也没有。
-
-已嘎：
-- https://datuchat.com - GPT-3 打开就能用，无需任何步骤（2023-8-30）
-- https://open.yunai.com.cn -微信扫码一键登录，既有聊天功能，也接入了midjourney画图，模型可选，关注公众号后免费体验，功能强大。（2023-8-30）
-- https://chatbot.flares.ai - GPT-3.5免费使用，提供数百种预设角色（2023-8-30）
-- https://chat.jinshutuan.com/ - 免费由开发者提供（2023-8-30）
-- https://chat.xr21.me/ - 免费10次 关注公众号或登录论坛可获取访问密码解锁到100次每小时/ip（2023-8-30）
-- https://openai.run/ - 非会员每日免费额度 10,000 Tokens（2023-8-30）
-- https://chat.aichatos.top/ - 免费由开发者提供(可以开启chatgpt联网功能)（2023-8-30）
-- https://chat.jinshutuan.com/ - 免费由开发者提供（2023-8-30）
-- https://aiweb.douguguo.com/ - 默认同一ip只提供一次免费查询机会（2023-8-30）
-- https://www.ebo168.com/ - 免费由开发者提供(有广告维持服务)（2023-8-30）
-- https://chat.extkj.cn/ - 访问404 免费由开发者提供(有广告维持服务)（2023-8-30）
-- https://huggingface.co/chat/ - 国外开源可访问模型(默认用英文回复,当前时间无法理解上下文)（2023-8-30）
-- https://ai.08qt.com/ - 免费可用（2023-8-30）
-- https://chatanywhere.top/ - 免费试用（2023-8-30）
-- https://chat.acheckling.com.cn/ - 免费由开发者提供（2023-8-30）
-- https://chatgpt.acheckling.com.cn/ - （2023-8-30）
-- http://chat.modelswitch.com/ - 未注册每个ip免费5次，每月9.9元（2023-8-30）
-- https://www.bioinfortree.asia/ - 关注公众号后免费试用（2023-8-30）
-- https://chat.newstop.asia - 免费，可选模版，不用登录，不限次数gpt3.5（2023-8-30）
-- https://chatgpt.qdymys.cn/ - 被提醒整改, 后期是否可用有待观望(2023/05/25)
-- https://www.jiankaitianmen.com/ - 无需登录免费流畅无限制无广 （2023-8-30）
-- https://chat.2.bnu120.space/ - 无需登陆，界面简洁，免费使用，国内可以访问 （2023-8-30）
+  
 
 
 ### 登录后可以免费使用的：
