@@ -11,7 +11,7 @@
 ### 无需登录直接可用的：
 - ~~https://next.speedy.works 或 https://chat.oaifree.com, PandoraNext代理站，有账号的情况下可以直连，同时也代理了官网账号注册(遗憾的是已于2024年2.1下线)~~
 - [SharedChat共享站点](https://sharedchat.cn/shared.html)，免费提供多个Plus共享账号！  
-- [Rawchat直登站点](https://chat.rawchat.cc)，可以使用官网的账号直接登录
+- ~~[Rawchat直登站点](https://chat.rawchat.cc)，可以使用官网的账号直接登录~~
 - [Rawchat桌面版](https://t0svlmehz1v.feishu.cn/docx/UvWJd3e0Yozgt0xxXaXcW4uAnuf)，采用正向代理，“最后的防线”
 
 - https://www.zxf7460.cn/home - GPT-3.5-16k免费使用，吐字块，每日20次数，不需要登陆
